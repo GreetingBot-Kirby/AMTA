@@ -13,9 +13,6 @@ Simply register the list of players and press a button to automatically distribu
 ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japannese）と英語版（English）があるので，言語に応じて適切なフォルダを開いてください．<br>
 「setup.exe」をクリックするとインストーラーが起動するので，指示に従ってインストールを完了させてください．
 
-
-Click the green button "Code" in the upper right corner of this page, then click "Download ZIP".
-
-After unzipping the ZIP, open the appropriate folder for the language you are using, as there are "Japanese" and "English" folders under the Tournament folder.
-
-Click "setup.exe" to start the installer and follow the instructions to complete the installation.
+Click the green button "Code" in the upper right corner of this page, then click "Download ZIP".<br>
+After unzipping the ZIP, open the appropriate folder for the language you are using, as there are "Japanese" and "English" folders under the Tournament folder.<br>
+Click "setup.exe" to start the installer and follow the instructions to complete the installation.<br>
