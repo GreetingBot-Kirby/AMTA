@@ -1,7 +1,7 @@
 # トーナメント自動作成アプリ ATCA(Automatic Tournament Creation App) 
 
 ## 概要 Overview
-これはトーナメントを自動で作成してくれるWindowsフォームアプリケーションです．
+これはトーナメントを自動で作成するWindowsフォームアプリケーションです．
 選手リストを登録して，あとはボタンを押すだけで自動でシード権の分配からトーナメントの作成まで行います．
 
 This is a Windows forms application that automatically creates tournaments.
