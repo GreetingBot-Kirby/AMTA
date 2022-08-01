@@ -9,10 +9,8 @@ Simply register the list of players and press a button to automatically distribu
 
 ## 使い方 Usage
 ### ダウンロード＆インストール Download&Install
-本ページ右上の緑色のボタン「Code」をクリックしたあと，「Download ZIP」をクリックします．
-
-ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japannese）と英語版（English）があるので，言語に応じて適切なフォルダを開いてください．
-
+本ページ右上の緑色のボタン「Code」をクリックしたあと，「Download ZIP」をクリックします．<br>
+ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japannese）と英語版（English）があるので，言語に応じて適切なフォルダを開いてください．<br>
 「setup.exe」をクリックするとインストーラーが起動するので，指示に従ってインストールを完了させてください．
 
 
