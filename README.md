@@ -16,8 +16,8 @@ ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japanne
 「setup.exe」をクリックするとインストーラーが起動するので，指示に従ってインストールを完了させてください．
 
 
-本ページ右上の緑色のボタン"Code"をクリックしたあと，"Download ZIP"をクリックします．
+Click the green button "Code" in the upper right corner of this page, then click "Download ZIP".
 
-ZIPを解凍したあとは，Tournamentフォルダ下に"日本語"と”英語”があるので，あなたが使用している言語に応じて適切なフォルダを開いてください．
+After unzipping the ZIP, open the appropriate folder for the language you are using, as there are "Japanese" and "English" folders under the Tournament folder.
 
-setup.exeをクリックするとインストーラが起動するので，指示に従ってインストールを完了させてください．
+Click "setup.exe" to start the installer and follow the instructions to complete the installation.
