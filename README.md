@@ -4,6 +4,10 @@
 これはトーナメントを自動で作成するWindowsフォームアプリケーションです．
 選手リストを登録して，あとはボタンを押すだけで自動でシード権の分配からトーナメントの作成まで行います．
 
+<img src="https://media.giphy.com/media/SjgV3RLAxe2ZR0KQcd/giphy.gif", width="400">
+
+![スクリーンショット 2022-08-02 224337](https://user-images.githubusercontent.com/110318897/182389997-eb0832e7-5ee7-469b-9a8f-4f0101d0dadc.png)
+
 ## 使い方 Usage
 ### ダウンロード＆インストール Download&Install
 本ページ右上の緑色のボタン「Code」をクリックしたあと，「Download ZIP」をクリックします．<br>
@@ -11,7 +15,6 @@ ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japanne
 「setup.exe」をクリックするとインストーラーが起動するので，指示に従ってインストールを完了させてください．
 
 ＊英語版は近日作成予定です
-
 
 ### 選手リストの登録，保存，ロード Register, save, and load player lists
 登録したい選手名，レベル，ランキングを入力します．レベル，ランクの入力が必要無い場合は「0」を入力してください．(何も入力しないとエラーが発生します)<br>
