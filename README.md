@@ -16,12 +16,12 @@ ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japanne
 ![image2](https://user-images.githubusercontent.com/110318897/182400613-479ad91c-c4e3-4618-a619-c739b2e7cd24.png)<br>
 ＊英語版は近日作成予定です
 
-インストール後は，タスクバーの「検索」にて「tournament_demo」と入力するとアプリが見つかるので，そこから開いてください．
+インストール後は，タスクバーの「検索」にて「tournament_demo」と入力するとアプリが見つかるので，そこから開いてください．<br>
 ![image5](https://user-images.githubusercontent.com/110318897/182401081-12a24ea1-c0b1-4534-9411-d8f69f957629.png)
 
 ### 選手リストの登録，保存，ロード Register, save, and load player lists
 登録したい選手名，レベル，ランキングを入力します．レベル，ランクの入力が必要無い場合は「0」を入力してください．(何も入力しないとエラーが発生します)<br>
-選手リストを保存したい場合は「リストを保存」，既に保存してあるものをロードしたい場合は「リストをロード」ボタンを押します．
+選手リストを保存したい場合は「リストを保存」，既に保存してあるものをロードしたい場合は「リストをロード」ボタンを押します．<br>
 ![image4](https://user-images.githubusercontent.com/110318897/182400726-1cf5d210-23c8-4a10-b5a1-d605c70e21a6.png)
 
 ### 対戦形式の選択 Choice of battle format
