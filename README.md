@@ -10,9 +10,10 @@
 ### ダウンロード＆インストール Download&Install
 [メインページ](https://github.com/GreetingBot-Kirby/ATCA)右上の緑色のボタン「Code」をクリックしたあと，「Download ZIP」をクリックします．<br>
 ![image1](https://user-images.githubusercontent.com/110318897/182400487-e27f7410-a3db-46ea-b0ab-af90542e429d.png)
+
 ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japannese）と英語版（English）があるので，言語に応じて適切なフォルダを開いてください．<br>
 「setup.exe」をクリックするとインストーラーが起動するので，指示に従ってインストールを完了させてください．
-![image2](https://user-images.githubusercontent.com/110318897/182400613-479ad91c-c4e3-4618-a619-c739b2e7cd24.png)
+![image2](https://user-images.githubusercontent.com/110318897/182400613-479ad91c-c4e3-4618-a619-c739b2e7cd24.png)<br>
 ＊英語版は近日作成予定です
 
 インストール後は，タスクバーの「検索」にて「tournament_demo」と入力するとアプリが見つかるので，そこから開いてください．
