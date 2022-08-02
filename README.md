@@ -6,10 +6,6 @@
 
 ![gif01](https://media.giphy.com/media/SjgV3RLAxe2ZR0KQcd/giphy.gif)
 
-<img src="https://media.giphy.com/media/SjgV3RLAxe2ZR0KQcd/giphy.gif", width="400">
-
-![スクリーンショット 2022-08-02 224337](https://user-images.githubusercontent.com/110318897/182389997-eb0832e7-5ee7-469b-9a8f-4f0101d0dadc.png)
-
 ## 使い方 Usage
 ### ダウンロード＆インストール Download&Install
 本ページ右上の緑色のボタン「Code」をクリックしたあと，「Download ZIP」をクリックします．<br>
