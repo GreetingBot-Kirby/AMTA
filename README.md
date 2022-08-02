@@ -47,7 +47,8 @@ ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japanne
 
 ### 対戦結果の編集 Edit Matchup Results
 勝利者をドロップダウンリストにて選択します．<br>
-ラウンド全ての勝利者を選択したら，「トーナメントを更新」ボタンを押します．以降，この作業の繰り返しとなります．
+ラウンド全ての勝利者を選択したら，「トーナメントを更新」ボタンを押します．以降，この作業の繰り返しとなります．<br>
+![gif02](https://media.giphy.com/media/ia9hFO1ZEHVf0DaaZy/giphy.gif)
 
 ## 今後追加予定の機能 Features to be created in the future
 - トーナメント保存，ロード機能
