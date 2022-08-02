@@ -9,19 +9,25 @@
 ## 使い方 Usage
 ### ダウンロード＆インストール Download&Install
 [メインページ](https://github.com/GreetingBot-Kirby/ATCA)右上の緑色のボタン「Code」をクリックしたあと，「Download ZIP」をクリックします．<br>
-
-ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japannese）と英語版（English）*があるので，言語に応じて適切なフォルダを開いてください．<br>
-
+![image1](https://user-images.githubusercontent.com/110318897/182400487-e27f7410-a3db-46ea-b0ab-af90542e429d.png)
+ZIPを解凍したあとは，Tournamentフォルダ下に日本語版（Japannese）と英語版（English）があるので，言語に応じて適切なフォルダを開いてください．<br>
 「setup.exe」をクリックするとインストーラーが起動するので，指示に従ってインストールを完了させてください．
-
+![image2](https://user-images.githubusercontent.com/110318897/182400613-479ad91c-c4e3-4618-a619-c739b2e7cd24.png)
 ＊英語版は近日作成予定です
+
+インストール後は，タスクバーの「検索」にて「tournament_demo」と入力するとアプリが見つかるので，そこから開いてください．
+![image5](https://user-images.githubusercontent.com/110318897/182401081-12a24ea1-c0b1-4534-9411-d8f69f957629.png)
 
 ### 選手リストの登録，保存，ロード Register, save, and load player lists
 登録したい選手名，レベル，ランキングを入力します．レベル，ランクの入力が必要無い場合は「0」を入力してください．(何も入力しないとエラーが発生します)<br>
 選手リストを保存したい場合は「リストを保存」，既に保存してあるものをロードしたい場合は「リストをロード」ボタンを押します．
+![image4](https://user-images.githubusercontent.com/110318897/182400726-1cf5d210-23c8-4a10-b5a1-d605c70e21a6.png)
 
 ### 対戦形式の選択 Choice of battle format
-対戦形式は「完全ランダム」，「レベルを考慮する」，「ランキングを考慮する」の3種類あります．それぞれの対戦形式の詳細は以下の通りです．
+対戦形式は「完全ランダム」，「レベルを考慮する」，「ランキングを考慮する」の3種類あります．<br>
+![image6](https://user-images.githubusercontent.com/110318897/182401366-e2a0ebb7-25ec-4536-b4cf-84c98c8f92f0.png)
+
+それぞれの対戦形式の詳細は以下の通りです．
 - 完全ランダム
   - レベルやランキングを考慮せず，対戦相手がランダムなトーナメントを作成します．
   - この項目の上限人数はありません．
